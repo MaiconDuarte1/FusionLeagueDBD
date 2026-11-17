@@ -1,6 +1,6 @@
 {
 	"Name": "Fusion League",
-	"Version": 1794442365,
+	"Version": 1794913863,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -436,6 +436,7 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"153",
+				"170",
 				"172",
 				"184",
 				"220",
@@ -1718,7 +1719,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1747,7 +1750,9 @@
 				2,
 				5
 			],
-			"KillerOfferings": []
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Oni",
@@ -3121,7 +3126,8 @@
 				"281",
 				"121",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [
 				[
